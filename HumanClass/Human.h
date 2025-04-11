@@ -6,16 +6,16 @@
 using namespace std;
 
 class Human {
-private:
+private:	// What is private behind scenes
 	string Name;
 	int Health;
 	int Damage;
 
-public:
+public:	// What is Public to the player
 	// Constructor
 	Human(string name, int health = 10, int baseDamage = 4);
 
-	// Methods
+	// Void Methods
 	void SayHello();
 	void SetHealth(int byAmount);
 	void SetDamage(int givenDamage);
