@@ -15,13 +15,19 @@ public:	// What is Public to the player
 	// Constructor
 	Human(string name, int health = 10, int baseDamage = 4);
 
-	// Void Methods
+	// Void Methods Human 
 	void SayHello();
 	void SetHealth(int byAmount);
 	void SetDamage(int givenDamage);
 	int GetHealth() const;
 	int GetDamage() const;
+	
+	// Barbarians
+	void Yell();
+	void SwingWeapon(Human& target);
 
+	// Storekeeper
+	void Welcome();
 };
 
 #endif	// end of Human.H

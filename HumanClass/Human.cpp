@@ -7,7 +7,7 @@ Human::Human(string name, int health, int baseDamage)
 }
 
 void Human::SayHello() {	// Say Hello to player
-	cout << "Hello, my name is " << Name << "!" << endl;
+	cout << "\nHello, my name is " << Name << "!" << endl;
 }
 
 void Human::SetHealth(int byAmount) {	// Set health Human
@@ -25,3 +25,13 @@ int Human::GetHealth() const {	// Grabs Health
 int Human::GetDamage() const {	// Grabs Damage
 	return Damage;
 }
+
+void Human::Yell() {
+	cout << Name << "\nYelled with vigor\n";
+}
+
+void Human::SwingWeapon(Human& target) {
+	cout << "\nThe " << Name << " swings their weapon at!\n";
+}
+
+

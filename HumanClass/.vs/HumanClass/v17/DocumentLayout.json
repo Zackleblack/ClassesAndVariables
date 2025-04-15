@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\HumanStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:HumanStruct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:Human.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{40BE9F94-698C-42DE-A242-8B5D17174E5C}|HumanClass.vcxproj|solutionrelative:Human.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -43,39 +43,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Human.cpp",
               "DocumentMoniker": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.cpp",
               "RelativeDocumentMoniker": "Human.cpp",
               "ToolTip": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.cpp",
               "RelativeToolTip": "Human.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-11T18:57:14.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Human.h",
               "DocumentMoniker": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.h",
               "RelativeDocumentMoniker": "Human.h",
               "ToolTip": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\Human.h",
               "RelativeToolTip": "Human.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-11T18:53:49.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
               "ToolTip": "C:\\Users\\Owner\\GitHub\\ClassesAndVariables\\HumanClass\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-11T18:45:40.614Z",
               "EditorCaption": ""
